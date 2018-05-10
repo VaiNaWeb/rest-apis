@@ -20,28 +20,39 @@ Todo o conteúdo sobre tecnologia criado ao decorrer das aulas é aberto e pode 
 
 ### Aula 01 - [O que são API's](aulas/aula01/aula.md)
 
-**Objetivos:** Aprender a definição de API e o por quê de sua existência.<br>
-**Formato de apresentação:** Video aula [(clique aqui para assistir)]().<br> 
+**Objetivos:** Aprender a definição de API e o por quê de sua existência.
+
+**Formato de apresentação:** Video aula [(clique aqui para assistir)]().
+
 **Ferramentas e materiais de apoio:** 
+
 + [Artigo: O que é API? Entenda de uma maneira simples.](https://vertigo.com.br/o-que-e-api-entenda-de-uma-maneira-simples/)
-+ [resumo](aulas/aula01/resumo.md).<br>
++ [resumo](aulas/aula01/resumo.md).
+
 **Duração:** N/A.
 
 ### Aula 02 - [O que é REST e RESTful](aulas/aula02/aula.md)
 
-**Objetivos:** Entender a diferença entre REST e RESTful.<br>
-**Formato de apresentação:** Video aula [(clique aqui para assistir)]().<br> 
+**Objetivos:** Entender a diferença entre REST e RESTful.
+
+**Formato de apresentação:** Video aula [(clique aqui para assistir)]().
+
 **Ferramentas e materiais de apoio:** 
+
 + [Artigo: O que é API? REST e RESTful? Conheça as definições e diferenças.](https://becode.com.br/o-que-e-api-rest-e-restful/)
-+ [resumo](aulas/aula02/resumo.md).<br>
++ [resumo](aulas/aula02/resumo.md).
+
 **Duração:** N/A.
 
 ### Aula 03 - [Verbos HTTP e status de resposta](aulas/aula03/aula.md)
 
-**Objetivos:** Conhecer os verbos HTTP e os principais status de resposta de servidor.<br>
-**Formato de apresentação:** Video aula [(clique aqui para assistir)]().<br> 
+**Objetivos:** Conhecer os verbos HTTP e os principais status de resposta de servidor.
+**Formato de apresentação:** Video aula [(clique aqui para assistir)]().
+
 **Ferramentas e materiais de apoio:** 
+
 + [Artigo: Serviços RESTful: Verbos http.](https://www.devmedia.com.br/servicos-restful-verbos-http/37103)
 + [Lista de status HTTP](https://httpstatuses.com/)
-+ [resumo](aulas/aula02/resumo.md).<br>
++ [resumo](aulas/aula02/resumo.md).
+
 **Duração:** N/A.
